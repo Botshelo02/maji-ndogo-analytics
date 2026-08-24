@@ -25,5 +25,11 @@ Designed and implemented core Python logic for an agricultural digital twin syst
 
 ---
 
+---
+
 ## Visual Evidence
-*(Uploaded project screenshots capturing core execution logic and code outputs reside in the `/images` directory.)*
+
+| Code Implementation | Execution Output | Telemetry & Data |
+| :---: | :---: | :---: |
+| ![Code Snippet](images/screenshot(2).png) | ![Output Results](images/screenshot(4).png) | ![Data Operations](images/screenshot(5).png) |
+| *Defensive logic & function definitions* | *Execution results demonstrating successful run* | *Data structures & field tracking outputs* |

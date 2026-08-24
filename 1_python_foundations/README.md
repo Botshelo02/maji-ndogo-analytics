@@ -6,7 +6,7 @@ Designed and implemented core Python logic for an agricultural digital twin syst
 ---
 
 ## Key Technical Implementations
-* **Defensive Fuel Logic:** Designed dynamic functions (e.g., `fuel_status()`) incorporating safety checks to eliminate zero-division errors and manage missing telemetry data.
+* **Defensive Fuel Logic:** Designed dynamic functions (e.g. `fuel_status()`) incorporating safety checks to eliminate zero-division errors and manage missing telemetry data.
 * **Automated Field Navigation:** Built iteration pipelines using `for` and `while` loops to map tractor coordinates across agricultural fields and navigate obstacles.
 * **Structured Data Management:** Employed Python dictionaries and sets to aggregate crop data, look up field metadata, and maintain lists of unique assets efficiently.
 

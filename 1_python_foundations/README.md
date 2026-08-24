@@ -25,11 +25,9 @@ Designed and implemented core Python logic for an agricultural digital twin syst
 
 ---
 
----
-
 ## Visual Evidence
 
-| Code Implementation | Execution Output | Telemetry & Data |
+| Fuel Level Check | Crop Plan Sets Comparison | Harvest Registry Tracking |
 | :---: | :---: | :---: |
-| ![Code Snippet](images/screenshot(2).png) | ![Output Results](images/screenshot(4).png) | ![Data Operations](images/screenshot(5).png) |
-| *Defensive logic & function definitions* | *Execution results demonstrating successful run* | *Data structures & field tracking outputs* |
+| ![Fuel Status Function](images/screenshot(2).png) | ![Compare Crop Plans](images/screenshot(4).png) | ![Record Harvest Function](images/screenshot(5).png) |
+| *Implementation of `fuel_status()` and output* | *Set operations comparing farm crop plans* | *Nested dictionary logic updating farm harvest records* |
